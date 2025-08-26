@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Wedy's Sweet Treats</title>
+</head>
+<body>
+  <h1>Welcome to Wedy's Sweet Treats!</h1>
+  <h2>Our Delicious Bakery Items</h2>
+  <ul>
+    <li>Chocolate Cupcake</li>
+    <li>Strawberry Donut</li>
+  </ul>
+  <button onclick="location.href='items.html'">Shop Now</button>
+  <button onclick="location.href='store.html'">Find a Store</button>
+</body>
+</html>
